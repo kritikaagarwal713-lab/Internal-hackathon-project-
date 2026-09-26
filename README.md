@@ -27,10 +27,10 @@ Customer → API Gateway → Lambda → SQS → Processing Lambda → DynamoDB
   
 ## 🛠️ Tech Stack
 
-[![AWS](https://img.shields.io/badge/AWS-Cloud-orange)](https://aws.amazon.com/)
-[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
-[![API Gateway](https://img.shields.io/badge/API-Gateway-orange)](https://aws.amazon.com/api-gateway/)
-[![Lambda](https://img.shields.io/badge/Lambda-orange)](https://aws.amazon.com/lambda/)
-[![SQS](https://img.shields.io/badge/SQS-orange)](https://aws.amazon.com/sqs/)
-[![DynamoDB](https://img.shields.io/badge/DynamoDB-orange)](https://aws.amazon.com/dynamodb/)
-[![CloudWatch](https://img.shields.io/badge/CloudWatch-orange)](https://aws.amazon.com/cloudwatch/)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![SQS](https://img.shields.io/badge/SQS-FF9900?style=for-the-badge&logo=amazonsqs&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
