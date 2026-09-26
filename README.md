@@ -5,7 +5,7 @@ An AWS-based event-driven system for processing e-commerce orders asynchronously
 ## 📌 About
 E-commerce orders involve multiple operations such as payment, inventory, invoice, and notifications. Processing all these operations synchronously can be slow and difficult to scale.
 
-This project uses an event-driven architecture to process orders asynchronously and independently using AWS services independently instead of handling all operations synchronously.
+This project uses an event-driven architecture to process orders asynchronously and independently using AWS services instead of handling all operations synchronously.
 
 ## ☁️ AWS Services
 - API Gateway
