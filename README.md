@@ -29,8 +29,8 @@ Customer → API Gateway → Lambda → SQS → Processing Lambda → DynamoDB
 
 [![AWS](https://img.shields.io/badge/AWS-Cloud-orange)](https://aws.amazon.com/)
 [![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
-[![Lambda](https://img.shields.io/badge/AWS-Lambda-orange)](https://aws.amazon.com/lambda/)
-[![SQS](https://img.shields.io/badge/AWS-SQS-orange)](https://aws.amazon.com/sqs/)
-[![DynamoDB](https://img.shields.io/badge/AWS-DynamoDB-orange)](https://aws.amazon.com/dynamodb/)
-[![API Gateway](https://img.shields.io/badge/AWS-API%20Gateway-orange)](https://aws.amazon.com/api-gateway/)
-[![CloudWatch](https://img.shields.io/badge/AWS-CloudWatch-orange)](https://aws.amazon.com/cloudwatch/)
+[![API Gateway](https://img.shields.io/badge/API-Gateway-orange)](https://aws.amazon.com/api-gateway/)
+[![Lambda](https://img.shields.io/badge/Lambda-orange)](https://aws.amazon.com/lambda/)
+[![SQS](https://img.shields.io/badge/SQS-orange)](https://aws.amazon.com/sqs/)
+[![DynamoDB](https://img.shields.io/badge/DynamoDB-orange)](https://aws.amazon.com/dynamodb/)
+[![CloudWatch](https://img.shields.io/badge/CloudWatch-orange)](https://aws.amazon.com/cloudwatch/)
